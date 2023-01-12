@@ -19,3 +19,6 @@ Hi, I'm Haemin. Nice to meet you.
 |     3| SQL       |
   
 </details>
+
+---
+> It's reference to Internet.
