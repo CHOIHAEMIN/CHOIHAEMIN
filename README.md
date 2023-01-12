@@ -24,3 +24,12 @@ Hi, I'm Haemin. Nice to meet you.
 > It's reference to Internet.
 
 <!-- TO DO: add more details about me later -->
+
+This is example `code` quote.
+
+multicode quote.
+```
+git status
+git add
+git commit
+```
