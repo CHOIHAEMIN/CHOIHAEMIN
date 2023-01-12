@@ -11,9 +11,11 @@ Hi, I'm Haemin. Nice to meet you.
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Java      |
 |     2| Python    |
 |     3| SQL       |
+  
 </details>
