@@ -22,3 +22,5 @@ Hi, I'm Haemin. Nice to meet you.
 
 ---
 > It's reference to Internet.
+
+<!-- TO DO: add more details about me later -->
